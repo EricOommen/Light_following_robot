@@ -16,3 +16,4 @@ DC Female Connector Jack for battery connection,
 Connecting wires for circuit connections,
 Soldering iron and solder wire for secure connections,
 Hot Melt Glue Gun for mechanical assembly.
+![WhatsApp Image 2023-07-24 at 19 27 29](https://github.com/EricOommen/Light_following_robot/assets/92706226/2d958423-1216-4738-b445-a7b66152ced8)
